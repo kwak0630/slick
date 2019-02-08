@@ -151,24 +151,15 @@ $(element).slick('slickSetOption', 'speed', 5000, true);
 
 
 
-## 7. Exemple
+## 7. Example
 
-1. [basic]: https://code.d2.co.kr/sallykwak/study/02_slick/01_basic.html
-
-2. [center]: https://code.d2.co.kr/sallykwak/study/02_slick/02_center.html
-
-3. [side]: https://code.d2.co.kr/sallykwak/study/02_slick/03_side.html
-
-4. [both]: https://code.d2.co.kr/sallykwak/study/02_slick/04_both_side.html
-
-5. [responsive]: https://code.d2.co.kr/sallykwak/study/02_slick/05_responsive.html
-
-6. [controls]: https://code.d2.co.kr/sallykwak/study/02_slick/06_controls.html
-
-7. [progress]: https://code.d2.co.kr/sallykwak/study/02_slick/07_progressbar.html
-
-8. [video]: https://code.d2.co.kr/sallykwak/study/02_slick/08_video.html
-
-9. [mouse]: https://code.d2.co.kr/sallykwak/study/02_slick/09_mousewheel.html
-
-10. [data]: https://code.d2.co.kr/sallykwak/study/02_slick/10_data.html
+1. basic : https://code.d2.co.kr/sallykwak/study/02_slick/01_basic.html 
+2. center mode : https://code.d2.co.kr/sallykwak/study/02_slick/02_center.html 
+3. side : https://code.d2.co.kr/sallykwak/study/02_slick/03_side.html 
+4. both : https://code.d2.co.kr/sallykwak/study/02_slick/04_both_side.html 
+5. responsive : https://code.d2.co.kr/sallykwak/study/02_slick/05_responsive.html 
+6. controls : https://code.d2.co.kr/sallykwak/study/02_slick/06_controls.html 
+7. progress bar : https://code.d2.co.kr/sallykwak/study/02_slick/07_progressbar.html 
+8. video : https://code.d2.co.kr/sallykwak/study/02_slick/08_video.html 
+9. mousewheel : https://code.d2.co.kr/sallykwak/study/02_slick/09_mousewheel.html 
+10. data : https://code.d2.co.kr/sallykwak/study/02_slick/10_data.html 
